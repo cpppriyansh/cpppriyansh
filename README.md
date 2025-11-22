@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 Currently building: connectingdotserp.com & critindia.com [portfolio links you add].  <br>🤝 Open to collaborate on: Next.js apps, Node/Express APIs, SAP learning tools, and performance optimization.  <br>🌱 Learning: Advanced React patterns, system design, and DSA for interviews.  <br>✍️ Content: Educational blogs on SAP FICO/BASIS/MM/ABAP and HR analytics.  <br>💬 Ask me about: Next.js, REST APIs, auth, DB design, Lighthouse performance.  <br>⚡ Fun: Daily LeetCode streaks and micro-optimizations.
+🔭 Currently building: connectingdotserp.com & critindia.com [portfolio links you add].  <br>🤝 Open to collaborate on: Next.js apps, Node/Express APIs and performance optimization.  <br>🌱 Learning: Advanced React patterns, system design, and DSA for interviews.  <br>✍️ Content: Educational blogs on SAP FICO/BASIS/MM/ABAP and HR analytics.  <br>💬 Ask me about: Next.js, REST APIs, auth, DB design, Lighthouse performance.  <br>⚡ Fun: Daily LeetCode streaks and micro-optimizations.
 
 
 ## 🌐 Socials:
